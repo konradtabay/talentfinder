@@ -1,12 +1,12 @@
 # EventHire
 
+![EventHire walkthrough](EventHireGithub.gif)
+
+[Watch the full demo](https://drive.google.com/file/d/1dLDHZmZIKzSsWgeeI-mQTvN7mxbwpMmF/view?usp=sharing)
+
 Turn a Luma event into a hiring pipeline. You host the event, EventHire finds sponsors, scores the guest list against your open roles, and gives you a LinkedIn note for each person worth meeting.
 
 [Open the app](https://talentfinder-ashen.vercel.app)
-
-## Demo
-
-Walkthrough GIF goes here.
 
 ## What it does
 
