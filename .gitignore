@@ -1,0 +1,14 @@
+.venv/
+.env
+output/
+__pycache__/
+*.pyc
+demo_frames/
+tinyfish-growth-app.zip
+app.zip
+package/
+
+node_modules/
+.next/
+.vercel/
+.DS_Store
