@@ -14,7 +14,7 @@ const doto = Doto({
 });
 
 export const metadata: Metadata = {
-  title: "TalentFinder",
+  title: "EventHire",
   description: "Turn your Luma event into a hiring pipeline.",
 };
 

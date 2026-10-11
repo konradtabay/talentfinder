@@ -23,7 +23,7 @@ export default function Home() {
               that hire.
             </h1>
             <p className="max-w-md text-muted">
-              Host a Luma event, fill your open roles. TalentFinder curates the guest list, gets you
+              Host a Luma event, fill your open roles. EventHire curates the guest list, gets you
               connected, and follows up with everyone who came.
             </p>
             <div>

@@ -1,4 +1,4 @@
-# TalentFinder web app
+# EventHire web app
 
 Next.js app. Setup, keys, and the event workflow are in the [repository README](../README.md).
 

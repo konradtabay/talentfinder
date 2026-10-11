@@ -29,7 +29,7 @@ export function ButtonLink({
 export function Wordmark() {
   return (
     <Link href="/" className="font-dot text-2xl font-black tracking-tight">
-      talentfinder
+      EventHire
     </Link>
   );
 }

@@ -1,4 +1,4 @@
-# TalentFinder
+# EventHire
 
 Host a Luma event and hire from the guest list. Find companies that already sponsor similar events, score guests against open roles, and copy LinkedIn notes and follow-ups.
 
@@ -75,6 +75,8 @@ From `web/`:
 The Next.js app is in `web/`.
 
 On Vercel, import this repository, set the root directory to `web`, and deploy. Leave environment variables empty. The production site does not hold user keys.
+
+Production: https://talentfinder-ashen.vercel.app
 
 ## Stack
 
